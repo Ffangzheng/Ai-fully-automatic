@@ -50,6 +50,28 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.github.xiaoymin</groupId>
+			<artifactId>knife4j-openapi3-jakarta-spring-boot-starter</artifactId>
+			<version>4.4.0</version>
+		</dependency>
+
+
+		<!-- hutool 工具包 -->
+		<dependency>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-all</artifactId>
+			<version>5.8.16</version>
+		</dependency>
+<!--		&lt;!&ndash; MyBatis-Plus &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>com.baomidou</groupId>-->
+<!--			<artifactId>mybatis-plus-spring-boot3-starter</artifactId>-->
+<!--			<version>3.5.10.1</version>-->
+<!--		</dependency>-->
+
+
 	</dependencies>
 
 	<build>
