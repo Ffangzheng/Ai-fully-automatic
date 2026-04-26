@@ -1,5 +1,7 @@
 package com.fz.aifullyautomatic.exception;
 
+
+import lombok.Data;
 import lombok.Getter;
 
 @Getter
